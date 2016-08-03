@@ -1,0 +1,42 @@
+#Primeros Cálculos
+Por medio de un prompt() solicita 2 números en pantalla y retornar por medio de un alert() las siguientes operaciones:
+
+  * El resultado de incrementar en 1 el primer número y el segundo sin modificar.
+  * El valor de módulo del primer número dividido el segundo.
+  * El resultado de restar el primer número y el segundo.
+  * El resultado de sumar el primer número con el segundo y ese resultado al primer número.
+
+#Primeras decisiones
+
+Por medio de un promt() solicitar el diámetro de una rueda y su espesor (en metros) por medio del condicional if() realiza las siguientes operaciones:
+
+  * Si el diámetro es superior a 1.8 mostrar el mensaje "La rueda es muy grande".
+  * Si el diámetro es menor o igual a 1.8 pero mayor a 1 mostrar el mensaje "La rueda es mediana".
+  * Si la medida es inferior a 1 mostrar el mensaje "La rueda es chica".
+
+Teniendo en cuenta con las condiciones anteriores agregar:
+
+  * Si el diámetro es superior a 1.8 con un grosor inferior a 0.4 o si el diámetro es menor o igual a 1.8 pero mayor a 1 con un grosor inferior a 0.25 mostrar el mensaje "El grosor no es el recomendado".
+
+
+#Calculadora
+
+Por medio de promt() para la carga de datos realizar una calculadora.
+Primer dato a guardar es el tipo de operación: Suma, Resta, Dividir o multiplicar.
+Solicitar dos números enteros.
+Teniendo estos datos devolver el resultado obtenido mediante un console.log().
+
+# Piedra Papel o Tijera
+
+Pensar la lógica de un Piedra Papel o tijera para 2 jugadores y en base a eso armar las condiciones para poder definir que jugador gana.
+Agregar la lógica para cuando en el segundo jugador se ingresa "no jugador" la seleccion del resultado de Piedra Papel o Tijera sea de forma Aleatoria.
+
+
+-------------------------------------------------------------------------------------
+
+Tip: Tener en cuenta en estos ejercicios, el tipo de dato que devuelve promp() es un string (verificarlo en la consola con typeof() ), buscar información sobre Number() o parseInt() para convertir a numero.
+Para la selecciona Aleatoria verificar math.random() para el redondeo math.round().
+
+Fuentes recomendadas:
+  * www.developer.mozilla.org
+  * www.w3school.com
