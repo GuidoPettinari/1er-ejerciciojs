@@ -1,0 +1,15 @@
+## Cuántas Vocales existen?
+
+Crear una función que cuente la cantidad de vocales existentes en un string (recuerden que puede ser de más de una palabra).
+
+- Crear una variable que va a contener nuestro string
+- Crear una función y pasar como argumento la variable del string
+- Recorrer esta variable dentro de nuestra función y efectuar la comparación de cual es vocal y cual no
+- En el caso de que sea vocal tenemos que hacer que se incremente una variable.
+- Si no es una vocal (no hacemos nada)
+- Retornamos la cantidad de vocales existentes en nuestra variable.
+
+Puntos extra si:
+- El string a verificar se envía desde un textarea y no estático en una variable.
+- La función se ejecuta al accionar un boton.
+- Mostramos la cantidad de vocales en pantalla.

@@ -1,0 +1,19 @@
+/* # Ahorcado
+
+Pensar la lógica de un Ahorcado, donde en primera instancia se le pedira al usuario
+que ingrese la palabra que se debe adivinar. Segundo la cantidad de intentos que puede tener el juegos,
+pero si ingresa cero  generar un entero de forma aleatoria entre (5 y 20).
+
+Una vez ingresados todos los datos anteriores se le pedira al "jugador" que ingrese una letra o la palabra entera
+(Si ingresa más de una letra se tomara como que ingreso la palabra).Siempre que se le pide que ingrese la letra o
+palabra informarle cuantos intentos tiene.
+
+En caso de que sea una letra se debera verificar si existe dentro de la de la palabra que ingreso para adivinar.
+Esto debera descontar las cantidad de jugadas e informar al usuario si acerto en la letra  o no, en el caso que
+haya acertado decirle en cuantas letras lo hizo, y cuantas letras le falta por adivinar.
+
+Cuando ingresa una palabra directamente se debera comprar con el texto y si adivina GANA pero si no adivina.
+No tendra otro intento y se le informara que PERDIO. */
+
+
+var palabraaadivinar = prompt /

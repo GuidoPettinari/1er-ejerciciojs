@@ -1,0 +1,20 @@
+# Trabajo Práctico 3 JavaScript (ordenando un array)
+
+## Descripción:
+
+1. Crear una función que llene un array con n valores(enteros) aleatorios.
+2. Crea otra función que ordene el array de manera creciente(sin utilizar la función sort).
+
+## Objetivo:
+
+* Entender el funcionamiento de las estructuras de control de flujo.
+
+## Bonus:
+
+* * Que la función que ordena el array, lo pueda hacer de manera creciente o decreciente al pasarle un parámetro a la misma.
+
+## Recursos:
+
+* [Ordenamiento por seleccion](https://es.wikipedia.org/wiki/Ordenamiento_por_selección)
+* [Métodos de arrays](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
+* [Métodos de strings](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/String)

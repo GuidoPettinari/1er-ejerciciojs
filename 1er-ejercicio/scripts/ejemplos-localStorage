@@ -1,0 +1,14 @@
+localStorage.setItem {"datos2", {"apellido":"blayer", "nombre":"matias"}};
+
+localStorage.setItem {"datos2", JSON.stringify ({"apellido":"blayer","nombre":"matias"});
+
+localStorage.key(0)
+
+localStorage.getItem('datos2');
+
+localStorage.getItem (localStorage.key(1))
+
+for (var i=0;i<localStorage.length;i++){
+  var dataLocal = localStorage.getItem(localStorage.key(i));
+  JSON.parse(dataLocal);
+}
